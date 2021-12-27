@@ -1,0 +1,13 @@
+The curl command transfers data to or from a network server, using one of the supported protocols (HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP or FILE). It is designed to work without user interaction, so it is ideal for use in a shell script.
+
+man curl     - manual
+
+curl - o file.name link    - download file in particular file, displays all info in real time 
+
+curl -O link     - download file with original name in default 
+
+curl -L link - if url was moved to other url -L will redirect 
+
+curl -I link  - displays protocol, info code responds from server, server inf, cookie
+
+curl -v link - displays handshake current connection, certificate info
