@@ -5,5 +5,5 @@
 ### errors - types
 ### script - save logs in file, parcing
 ### regular expression
-## -/-/-/-/-/-/-/-/-/-/--/-/-/-/-/-/-/-
+## -/-/-/-/-/
 
